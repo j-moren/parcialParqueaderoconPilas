@@ -5,6 +5,7 @@ public class Vehiculo {
     private int modelo;
     private int disponibilidad;
 
+    
     // Getters y Setters
     public String getPlaca() {
         return placa;
